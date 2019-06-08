@@ -1,0 +1,2 @@
+graphemes: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, "\xF3", "\u0105", "\u0107", "\u0119", "\u0142", "\u0144", "\u015B", "\u017A", "\u017C"]
+phones: [S, Z, a, b, c, d, dZ, dz, dzj, e, eo5, f, g, h, i, i2, j, k, l, m, n, n~, o, oc5, p, r, s, sj, t, tS, tsj, u, v, w, z, zj]

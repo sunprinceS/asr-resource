@@ -1,0 +1,2 @@
+graphemes: [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, "\xDF", "\xE4", "\xF6", "\xFC"]
+phones: [C, S, a, aI, aU, ae, al, atu, b, d, e, eU, el, etu, f, g, h, i, il, j, k, l, m, n, ng, o, oe, oel, ol, p, r, s, t, ts, u, ue, uel, ul, v, x, z]
